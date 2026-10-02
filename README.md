@@ -13,12 +13,11 @@ Desenvolvi este projeto durante o módulo de Front-end no curso da EBAC com o ob
 
 ## Tecnologias Utilizadas
 
-- **React** — Divisão da interface em componentes menores e reutilizáveis.
-- **Typescript** — Tipagem de dados para evitar erros bobos em desenvolvimento e facilitar a manutenção do código.
-- **Redux Toolkit & RTK Query** — Gerenciamento do estado do carrinho e requisições à API com sistema de cache para evitar consultas repetidas.
-- **Styled-Components** — Escrita do CSS direto nos componentes (CSS-in-JS), facilitando a criação de layouts dinâmicos.
-- **React Router DOM** — Criação e controle do sistema de rotas e navegação entre as páginas.
-
+- **React**
+- **Typescript**
+- **Redux Toolkit e RTK Query**
+- **Styled-Components**
+- **React Router DOM**
 ---
 
 ## O que a aplicação faz
